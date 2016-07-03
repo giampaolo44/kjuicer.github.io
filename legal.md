@@ -1,12 +1,13 @@
 ---
-layout: page
 title: Legal
-date: 2015-03-09 12:17:41.000000000 +01:00
+date: '2015-03-09 11:17:00'
+layout: page
 type: page
 published: true
 status: publish
 categories: []
 tags: []
+draft: true
 ---
 Informazioni ex art. 12 Decreto-Legge convertito con modificazioni dalla
 L. 17 dicembre 2012, n. 221 (in S.O. n. 208, relativo alla G.U.
@@ -104,9 +105,7 @@ funzionalmente collegate al raggiungimento dell'oggetto sociale.
         dell'hinterland Milanese all'utilizzo di software libero, nonché
         progettato e realizzato l'infrastruttura informatica del Festa
         Democratica di Melzo.
-8.  La Società è incubata presso PoliHub Srl, l'Incubatore Certificato
-    del Politecnico di Milano, sito in Via Durando 38/A, Milano (MI)-
-    Cap 20158;
+8.  La Società ha rapporti con l'Università Bocconi, presso la quale sta testando il KJuicer; è stata incubata presso PoliHub Srl, l'Incubatore Certificato del Politecnico di Milano, sito in Via Durando 38/A, Milano (MI)-Cap 20158 dalla sua costituzione fino a Marzo 2016; 
 9.  La Società, essendo stata costituita nel 2015, non ha ancora
     depositato nessun Bilancio;
 10. La società è titolare della Privativa Software denominata
@@ -114,7 +113,8 @@ funzionalmente collegate al raggiungimento dell'oggetto sociale.
     Programmi per Elaboratore tenuto dalla Siae in data 09/12/2014 al
     Numero Progressivo 009465 e Ordinativo D008606, registrata dal
     proprio Socio ed Amministratore Giampaolo Ferradini, di cui è Autore
-    il Socio Francesco Frassinelli.
+    il Socio Francesco Frassinelli; ha altresì presentato domanda di 
+    Brevetto ad Ottobre 2015.
 
 ### Ulteriori informazioni
 
