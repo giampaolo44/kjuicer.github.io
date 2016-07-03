@@ -5,9 +5,12 @@ layout: page
 type: page
 published: true
 status: publish
-categories: []
-tags: []
-draft: true
+categories:
+- Legal
+- " ITA"
+tags:
+- legal
+- " Ita"
 ---
 Informazioni ex art. 12 Decreto-Legge convertito con modificazioni dalla
 L. 17 dicembre 2012, n. 221 (in S.O. n. 208, relativo alla G.U.
@@ -16,7 +19,7 @@ L. 17 dicembre 2012, n. 221 (in S.O. n. 208, relativo alla G.U.
 La Società:
 
 1.  È stata costituita il 26/02/2015 a Melzo, presso lo studio del
-    Notaio Valentina Varlese, Piazza Risorgimento, 3 Melzo (MI);
+   Notaio Valentina Varlese, Piazza Risorgimento, 3 Melzo (MI);
 2.  Ha sede in Milano (MI), Via Ruggero Di Lauria, 2 - Cap 20149; 
 3.  L'Oggetto Sociale della Società, è il seguente:
 
