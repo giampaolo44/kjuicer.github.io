@@ -19,7 +19,7 @@ L. 17 dicembre 2012, n. 221 (in S.O. n. 208, relativo alla G.U.
 La Società:
 
 1.  È stata costituita il 26/02/2015 a Melzo, presso lo studio del
-   Notaio Valentina Varlese, Piazza Risorgimento, 3 Melzo (MI);
+    Notaio Valentina Varlese, Piazza Risorgimento, 3 Melzo (MI);
 2.  Ha sede in Milano (MI), Via Ruggero Di Lauria, 2 - Cap 20149; 
 3.  L'Oggetto Sociale della Società, è il seguente:
 
@@ -90,18 +90,23 @@ raggiungimento dell'oggetto sociale.
         conoscenze di economia e finanza con una sensibilità elevata a
         tecnologia e innovazione hanno costituito una base
         fondamentale per concepire e iniziare il progetto.
-    2.  Francesco Frassinelli, 26 anni, laureato in Ingegneria, è un
-        utilizzatore particolarmente sofisticato di tecnologie
-        informatiche ed un abile programmatore, oltre che persona
-        socialmente attiva. Appassionato fin dall'età di 12 anni del
-        mondo dell'Open Source, è stato chiamato due volte dal Cern per
-        le sue competenze di Python. Ha fondato nel 2010 il ViGLug, una
-        associazione promotrice delle tecnologie informatiche libere ed
-        aperte (ha organizzato con essa 6 Linux day, l'incontro annuale
-        per appassionati del settore), ha convertito una scuola
-        dell'hinterland Milanese all'utilizzo di software libero, nonché
-        progettato e realizzato l'infrastruttura informatica del Festa
-        Democratica di Melzo.
+    2.  Francesco Frassinelli, 26 anni, laureato in ingegneria, è attivo
+        in numerosi progetti legati al software libero e alla libera conoscenza.
+        Grazie alle sue competenze maturate in ambito informatico e alla sua
+        passione per le scienze, è stato chiamato dal CERN (*Organizzazione
+        Europea per la Ricerca Nucleare*, con sede a Ginevra) a lavorare,
+        prima nel 2013 e poi nel 2016, nel reparto di criogenia,
+        per l'ottimizzazione di alcuni processi, tra i quali la generazione
+        e la validazione del software per i PLC dell'acceleratore di particelle LHC.
+        Nel 2010 ha fondato il ViGLug, un gruppo di appassionati di
+        tecnologie libere che organizza serate ed eventi divulgativi
+        (come il Linux Day, la giornata nazionale dedicata a Linux).
+        Si è inoltre occupato della migrazione a soluzioni libere della scuola
+        media di Sovico (MB), ed ha progettato il software per della
+        Festa Democratica/Festa de L'Unità a Melzo.
+        Dal 2011 è attivo nel Fedora Project, dapprima in qualità di Ambassador
+        italiano, successivamente come maintainer/packager e fornisce supporto
+        tecnico su numerose chat, mailing list e siti (tra cui FedoraOnLine.it).
 8.  La Società ha rapporti con l'Università Bocconi, presso la quale sta 
     testando il KJuicer; è stata incubata presso PoliHub Srl, l'Incubatore 
     Certificato del Politecnico di Milano dalla sua costituzione fino a Marzo 
